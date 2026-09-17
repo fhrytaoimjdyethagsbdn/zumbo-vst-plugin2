@@ -1,0 +1,100 @@
+001  01 Psy Bass Core
+002  02 Psy Bass Tight
+003  03 Rolling Bass
+004  04 Deep Forest Bass
+005  05 Goa Bass
+006  06 Acid Bass
+007  07 Rubber Bass
+008  08 Sub Pulse
+009  09 Psy Bass Wide
+010  10 Bass Machine
+011  11 Morning Lead
+012  12 Night Lead
+013  13 Hypersaw Lead
+014  14 Goa Lead
+015  15 Psy Lead Bite
+016  16 Laser Lead
+017  17 Alien Lead
+018  18 Acid Lead
+019  19 Mono Psy Lead
+020  20 Quantum Lead
+021  21 Psy Screech
+022  22 Metallic Screech
+023  23 Dark Screech
+024  24 Wasp Screech
+025  25 Forest Screech
+026  26 Psy Worm
+027  27 Digital Scream
+028  28 Resonant Beast
+029  29 Insect Lead
+030  30 Psycho Laser
+031  31 Acid 303X
+032  32 Acid Spiral
+033  33 Acid Jungle
+034  34 Goa Acid
+035  35 Psy Squelch
+036  36 Acid Rubber
+037  37 Acid Trip
+038  38 Acid FM
+039  39 Acid Resonator
+040  40 Acid Mutant
+041  41 Psy Pluck
+042  42 Trance Pluck
+043  43 Bell Pluck
+044  44 Metallic Pluck
+045  45 Goa Pluck
+046  46 Short Acid Pluck
+047  47 Psy Bell
+048  48 Crystal Pluck
+049  49 Mutant Pluck
+050  50 Pulse Pluck
+051  51 Cosmic Pad
+052  52 Dark Pad
+053  53 Goa Sunrise
+054  54 Forest Atmos
+055  55 Ether Pad
+056  56 Hypnotic Pad
+057  57 Alien Pad
+058  58 Dream Texture
+059  59 Wide Goa Pad
+060  60 Night Temple
+061  61 GRAIND Dust
+062  62 GRAIND Freeze
+063  63 GRAIND Psy Gate
+064  64 GRAIND Vocal Air
+065  65 GRAIND Metal Cloud
+066  66 GRAIND Forest
+067  67 GRAIND Shards
+068  68 GRAIND Reverse Mist
+069  69 GRAIND Acid Rain
+070  70 GRAIND Infinite
+071  71 Riser Psy
+072  72 Riser Granular
+073  73 Downer Dark
+074  74 Impact Hit
+075  75 Psy Zap
+076  76 Laser FX
+077  77 Portal FX
+078  78 Creature FX
+079  79 Quantum Drop
+080  80 Psy Transition
+081  81 Rolling Arp
+082  82 Psy Arp Bright
+083  83 Goa Sequence
+084  84 Acid Arp
+085  85 Crystal Arp
+086  86 Forest Sequence
+087  87 Metallic Arp
+088  88 Psy Gate
+089  89 Trance Gate Pad
+090  90 Gated Screech
+091  91 Analog Machine
+092  92 Vintage Goa
+093  93 Broken Oscillator
+094  94 Warm Tape Lead
+095  95 Analog Squelch
+096  96 Psy Monster
+097  97 Hyperspace Lead
+098  98 Crystal Forest
+099  99 Festival Anthem Lead
+100  100 ZUMBO Init Psy
